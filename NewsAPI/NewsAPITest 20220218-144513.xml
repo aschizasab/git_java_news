@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="NewsAPITest" project="NewsAPI" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="NewsAPITest" time="1.514">
+    <testcase name="testeverythingAPI" classname="NewsAPITest" time="1.164"/>
+    <testcase name="testtopheadlinesAPI" classname="NewsAPITest" time="0.35"/>
+  </testsuite>
+</testrun>
